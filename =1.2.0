@@ -1,0 +1,5 @@
+Using pip 24.0 from /media/lighting/D4480B03480AE458/lizijun/codebase/Mamba/venv/lib/python3.9/site-packages/pip (python 3.9)
+Collecting causal-conv1d
+  Using cached causal_conv1d-1.2.0.post2.tar.gz (7.1 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'error'
